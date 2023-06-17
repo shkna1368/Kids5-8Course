@@ -1,6 +1,6 @@
 # Kids5-8Course
 
-![Screenshot](KurdestanBootcamp.jpg)
+![Screenshot](photo_5967668234306043104_c.jpg)
 # Table of conntent:</br>
 
 کوردی|فارسی 
