@@ -231,6 +231,7 @@ https://youtu.be/ZO03gDxIFic
 https://youtu.be/4z1FarcdGNg 
 
 
-Designed with ❤️ for kurdestan...
+<center>Designed with ❤️ for kurdestan...</center>center
+
   
 
