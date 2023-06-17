@@ -39,10 +39,12 @@ https://play.google.com/store/apps/details?id=org.scratchjr.android
 <br/>
 
 لینکی ڤیدیۆی فێربوون: 
+<br/>
 لینک ویدیو آموزشی: 
 https://youtu.be/0kNMrttwEUk 
-
+<br/>
 لینکی دابەزاندنی ئەپی ios:
+<br/>
 لینک دانلود اپ ios:  
   
 https://apps.apple.com/us/app/scratchjr/id895485086 
