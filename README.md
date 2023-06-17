@@ -49,6 +49,7 @@ https://youtu.be/0kNMrttwEUk
   
 https://apps.apple.com/us/app/scratchjr/id895485086 
 
+
 4-یەکەم پرۆگرامت لە  سکراچ جونیۆر
 <br/>
 4-اولین برنامه شما در اسکرچ جونیور 
