@@ -49,12 +49,12 @@ https://play.google.com/store/apps/details?id=org.scratchjr.android
 https://youtu.be/0kNMrttwEUk 
 
 <br/>
-لینکی دابەزاندنی ئەپی ios:
+لینکی دابەزاندنی ئەپی ios: 
 <br/>
 لینک دانلود اپ ios:  
-  
+ <br/> 
 https://apps.apple.com/us/app/scratchjr/id895485086 
-
+<br/>
 
 4-یەکەم پرۆگرامت لە  سکراچ جونیۆر
 <br/>
