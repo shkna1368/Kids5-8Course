@@ -10,6 +10,7 @@
 Free programming training for children 5-8 years old.
 
 1- پێناسەکردنی زمانەکانی پرۆگرامسازی و ناساندنی scratch junior 
+<br/>
 
 1-تعریف زبان های برنامه نویسی و معرفی اسکرچ جونیور scratch junior 
 
@@ -18,6 +19,7 @@ Free programming training for children 5-8 years old.
 https://youtu.be/RAQAuHmpafo
 
 2- دانانی Scratch Jr لەسەر مۆبایل و تابلێتەکانی ئەندرۆید
+<br/>
 <br/>
 2-نصب اسکرچ جونیور بر روی موبایل و تبلت اندرویدی
 
@@ -117,6 +119,7 @@ https://youtu.be/XcNK7lMb0P0
 
 
 13- سواربوونی ئەسپ
+<br/>
 13-اسب سواری
 
 
@@ -125,6 +128,7 @@ https://youtu.be/XcNK7lMb0P0
 https://youtu.be/9tEec8EZa_0
 
 14-کارەکتەری خۆت دروست بکە
+<br/>
 
 14-خودت کاراکترت رو بساز
 
@@ -134,6 +138,7 @@ https://youtu.be/fgKN8h_askw
 
 
 15-کێ سەردەکەوێت؟ کیسەڵ یان کەروێشک؟
+<br/>
 
 15-کی برنده میشه؟لاک پشت یا خرگوش؟
 
@@ -143,6 +148,7 @@ https://youtu.be/fgKN8h_askw
 https://youtu.be/qZ2hCHJDf-I
 
 16-هەڵگرتن هەشتالو 
+<br/>
 16-برداشتن هلو 
  
 
@@ -150,12 +156,14 @@ https://youtu.be/8ZMQwhn75Vc
 
 
 17-هەڵدانی کەشتییە ئاسمانییەکان
+<br/>
 17-پرتاب فضاپیما
   
 
 https://youtu.be/ajWAi1HdOgw 
 
 18-یاری نیشان کردن
+<br/>
 18-بازی نشانه گذاری
 
   
@@ -163,6 +171,7 @@ https://youtu.be/ajWAi1HdOgw
 https://youtu.be/wZBalwFWf8s
 
 19- یاری پێشبینیکردن
+<br/>
 19-بازی حدس زدن
 
   
@@ -170,6 +179,7 @@ https://youtu.be/wZBalwFWf8s
 https://youtu.be/C0flFRhsDdE
 
 20-یاری باڵندەکە ڕزگار بکە
+<br/>
 20-بازی نجات پرنده
 
  
@@ -177,6 +187,7 @@ https://youtu.be/C0flFRhsDdE
 https://youtu.be/MNM7d4Tx-HE
 
 21- کەشتیوانەکە
+<br/>
 21-فضانوارد
 
   
@@ -184,6 +195,7 @@ https://youtu.be/MNM7d4Tx-HE
 https://youtu.be/DYX9a8sicgQ
 
 22- غەواس 
+<br/>
 22-غواص 
  
   
@@ -192,6 +204,7 @@ https://youtu.be/bniTKMi-kc8
 
 
 23- قەڵاکە ڕزگار بکە 
+<br/>
 23-نجات قلعه 
  
    
@@ -200,6 +213,7 @@ https://youtu.be/ZO03gDxIFic
  
 
 24- یاری باسکە 
+<br/>
 24-بازی بسکتبال  
       
   
