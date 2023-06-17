@@ -18,6 +18,7 @@ Free programming training for children 5-8 years old.
 https://youtu.be/RAQAuHmpafo
 
 2- دانانی Scratch Jr لەسەر مۆبایل و تابلێتەکانی ئەندرۆید
+<br/>
 2-نصب اسکرچ جونیور بر روی موبایل و تبلت اندرویدی
 
 لینکی ڤیدیۆی فێربوون:
@@ -43,6 +44,7 @@ https://youtu.be/0kNMrttwEUk
 https://apps.apple.com/us/app/scratchjr/id895485086 
 
 4-یەکەم پرۆگرامت لە  سکراچ جونیۆر
+<br/>
 4-اولین برنامه شما در اسکرچ جونیور 
  
 
@@ -51,18 +53,21 @@ https://youtu.be/GYI9fc3Nny4
 
 
 5-ئەنیمەیشن (سوڕانەوە)
+<br/>
 5-انیمیشن (چرخش)
  
 
 https://youtu.be/Ec5OH_A4uek
 
 6-ئەنیمەیشن (شاردنەوە و نیشاندان)
+<br/>
 6-انیمیشن (پنهان کردن و نشان دادن)
  
 
 https://youtu.be/-sapaAQtevQ
 
 7- دووبارەکردنەوە
+<br/>
 7-تکرار
  
 
@@ -76,12 +81,14 @@ https://youtu.be/XxoJMJyOhnA
 https://youtu.be/wixLkRN-l98
 
 9- تۆمارکردنی دەنگ
+<br/>
 9-ضبط صدا
 
 
 https://youtu.be/m-EVInxQTLk
 
 10- لە نێوان لاپەڕەکاندا بجوڵێن
+<br/>
 10-جابجایی بین صفحات
 
 
@@ -90,6 +97,7 @@ https://youtu.be/m-EVInxQTLk
 https://youtu.be/ZnOdJzOOtQA
 
 11- گۆڕینی خێرایی
+<br/>
 11-تغییر سرعت
 
 
@@ -98,6 +106,7 @@ https://youtu.be/ZnOdJzOOtQA
 https://youtu.be/9AsAsXg5OxQ 
 
 12- ئەنیمەیشنی پشیلەیەک کە لە شەقامەکە دەپەڕێتەوە
+<br/>
 12-انیمیشن عبور گربه از خیابان
 
  
