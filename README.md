@@ -1,5 +1,8 @@
 # Kids5-8Course
 
+![Screenshot](KurdestanBootcamp.jpg)
+# Table of conntent:</br>
+
 کوردی|فارسی 
 <br/>
 ڕاهێنانی بەرنامەسازی ئۆنلاین و بێبەرامبەر بۆ منداڵانی تەمەن ٥-٨ ساڵ لە یوتیوب
