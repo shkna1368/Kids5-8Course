@@ -34,6 +34,7 @@ https://youtu.be/agr97qIpm4g
 https://play.google.com/store/apps/details?id=org.scratchjr.android 
 
 3- دانانی سکراچ جونیۆر لەسەر مۆبایل و تابلێتەکانی ئای ئۆ ئێس
+<br/>
 3-نصب اسکرچ جونیور بر روی موبایل و تبلت ios 
 
 لینکی ڤیدیۆی فێربوون: 
