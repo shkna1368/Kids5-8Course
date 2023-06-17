@@ -1,4 +1,4 @@
-# Kids5-8Course
+# Free programming training for children 5-8 years old
 
 ![Screenshot](photo_5967668234306043104_c.jpg)
 # Table of conntent: (title and youtube link)</br>
