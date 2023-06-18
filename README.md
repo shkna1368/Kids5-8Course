@@ -230,7 +230,7 @@ https://youtu.be/ZO03gDxIFic
   
 https://youtu.be/4z1FarcdGNg 
 
-<h1 align="center">Designed with ❤️ for kurdestan...</h1>
+<h1 align="center">Designed with ❤️ for kurdistan...</h1>
 
 
 
