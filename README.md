@@ -1,6 +1,6 @@
 # Free programming training for children 5-8 years old in Kurdish
 
-<div style="text-align:center">![Screenshot](photo_5967668234306043104_c.jpg)</div>
+![Screenshot](photo_5967668234306043104_c.jpg)
 
 # Table of conntent: (title and youtube link)</br>
 
