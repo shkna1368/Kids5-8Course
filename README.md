@@ -88,6 +88,7 @@ https://youtu.be/-sapaAQtevQ
 https://youtu.be/XxoJMJyOhnA
 
 8- کێڵگەی ئاژەڵان
+<br/>
 8-مزرعه حیوانات
 
  
